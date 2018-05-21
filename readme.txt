@@ -3,4 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks change of files.
 Creating a new branc is quick and simple.
+add merge.
 
